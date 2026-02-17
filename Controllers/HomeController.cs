@@ -14,7 +14,8 @@ namespace WebAPI.Controllers
             {
                 "John Doe",
                 "Jane Smith",
-                "Bob Johnson"
+                "Bob Johnson",
+                "Girish"
             };
             return Ok(employees);
         }
